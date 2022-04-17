@@ -417,11 +417,14 @@ img {
 	color: #eb3cd4;
 	font-weight: 400;
 	font-style: italic;
+	letter-spacing: 2px;
+	
 }
 
 .schedule p {
 	text-align: center;
 	font-size: 16px;
+	letter-spacing: 2px;
 }
 
 .title h2 {
